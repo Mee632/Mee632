@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=ceepkev77&color=006bed)
+![](https://komarev.com/ghpvc/?username=Mee632&color=006bed)
 
 ## Hey, my name is <strong>Kevin!</strong>
 
-> 16 y/o - PHP & Java Backend Developer | Vienna 🇦🇹
+> 17 y/o - Python Developer | Vienna 🇦🇹
 
 💬 Contact me on discord: ceepkev77
 
