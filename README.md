@@ -12,32 +12,35 @@
 
 ## 🚀Skills and development
 
-![Python]([https://img.shields.io/badge/-PHP-333333?style=flat&logo=php](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white))
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-
-**Utilities**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![C#](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
+
+**Utilitys**
+
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
+
 
 **Development tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
+
 ---
 
 ## 📜 My Projects
 
-**Synclyn - https://github.com/Synclyn**
+**No Public Project Right now**
 
 ## ⭐ Informations
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceepkev77&show_icons=true)
-
-[![Discord](https://discord.c99.nl/widget/theme-1/800775745488158771.png)](#)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mee632&show_icons=true)
