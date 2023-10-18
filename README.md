@@ -1,23 +1,21 @@
 ![](https://komarev.com/ghpvc/?username=Mee632&color=006bed)
 
-## Hey, my name is <strong>Kevin!</strong>
+## Hey, my name is <strong>Jakob!</strong>
 
 > 17 y/o - Python Developer | Vienna 🇦🇹
 
-💬 Contact me on discord: ceepkev77
+💬 Contact me on discord: mee63
 
-📧 Contact me on e-mail: ceepkev77@gmail.com
+📧 Contact me on e-mail: wimmerjakob9@gmail.com
 
 ---
 
 ## 🚀Skills and development
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Python]([https://img.shields.io/badge/-PHP-333333?style=flat&logo=php](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white))
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilities**
 
