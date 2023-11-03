@@ -41,6 +41,6 @@
 
 **No Public Project Right now**
 
-## ⭐ Informations
+## ⭐ Informations/GithubStats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mee632&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mee632&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
