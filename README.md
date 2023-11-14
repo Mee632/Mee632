@@ -41,7 +41,7 @@
 
 **No Public Project Right now**
 
-Private I am building my own Browser in Python
+Private: I am building my own Browser in Python
 
 ## ⭐ Informations/GithubStats
 
