@@ -2,11 +2,7 @@
 
 ## Hey, my name is <strong>Jakob!</strong>
 
-> 17 y/o - Python Developer | Vienna 🇦🇹
-
-💬 Contact me on discord: mee63
-
-📧 Contact me on e-mail: wimmerjakob9@gmail.com
+> 18 y/o - Python Developer | Vienna 🇦🇹
 
 ---
 
