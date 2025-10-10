@@ -8,7 +8,7 @@
 
 ## 🚀Skills and development
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,cs,ts,spring,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,python,java,javascript,cs,ts,spring,github&perline=3)](https://skillicons.dev)
 
 ---
 
