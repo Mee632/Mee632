@@ -2,7 +2,7 @@
 
 ## Hey, my name is <strong>Jakob!</strong>
 
-> 18 y/o - Python Developer | Vienna 🇦🇹
+> 19 y/o - Python Developer | Vienna 🇦🇹
 
 ---
 
